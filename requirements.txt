@@ -2,3 +2,5 @@ tensorflow
 matplotlib
 jupyterlab
 nbstripout
+tensorflow_hub
+pillow
