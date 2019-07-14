@@ -1,0 +1,5 @@
+logs/
+*.h5
+training_1/
+.ipynb_checkpoints/
+
